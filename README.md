@@ -6,14 +6,14 @@ Open Source Software Audit - Capstone Project
 
 ---
 
-## 📖 Project Overview
+##  Project Overview
 The shell scripts together with documentation for my OSS Capstone Project exist in this repository. My project mission needs me to study open-source software projects by analyzing their fundamental operating systems and their licensing rules and their total system resource usage. I chose **MySQL** because it operates as the main database system which runs the LAMP stack and it includes an interesting story about its dual licensing methods.
 
 The scripts stored in this repository operate exclusively on Linux systems which run Ubuntu through the Bash shell interface.
 
 ---
 
-## 🛠️ Dependencies Required
+##  Dependencies Required
 Your Linux system requires specific software installations before you can execute these scripts. These scripts need `mysql-server` to be installed because they perform MySQL footprint auditing.
 
 1. **Linux Environment:** Ubuntu or any Debian-based distribution (WSL works perfectly too).
@@ -26,7 +26,7 @@ sudo apt install mysql-server -y
 
 ---
 
-## 📜 Script Descriptions
+##  Script Descriptions
 
 The main purpose of every script within this repository will be explained in this section.
 
@@ -38,7 +38,7 @@ The main purpose of every script within this repository will be explained in thi
 
 ---
 
-## 🚀 Step-by-Step Instructions to Run the Scripts
+##  Step-by-Step Instructions to Run the Scripts
 
 You need to follow these instructions exactly to check the scripts on your computer system.
 
