@@ -1,4 +1,4 @@
-Open Source Software Audit - Capstone Project 🚀
+Open Source Software Audit - Capstone Project
 
 **Student Name:** Ambrish Raj
 **Registration Number:** 24B HI10019
